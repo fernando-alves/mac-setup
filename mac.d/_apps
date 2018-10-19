@@ -27,6 +27,7 @@ cask visual-studio-code
 cask zoomus
 cask gpg-suite
 
+formula git
 formula kubectl
 formula git-crypt
 formula bash
