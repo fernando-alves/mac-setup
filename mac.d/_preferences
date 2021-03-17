@@ -16,22 +16,22 @@ defaults write com.apple.AppleMultitouchTrackpad Clicking -bool true
 # Three finger drag
 defaults write com.apple.AppleMultitouchTrackpad TrackpadThreeFingerDrag -bool true
 
-# Set a blazingly fast keyboard repeat rate
+# Set a blazingly fast keyboard repeat rate kkkkkkk
 defaults write NSGlobalDomain KeyRepeat -int 2
-defaults write NSGlobalDomain InitialKeyRepeat -int 10
+defaults write NSGlobalDomain    -int 10
 
 ########################
 # Dock
 ########################
 
-# Set the icon size of Dock items to 35 pixels
-defaults write com.apple.dock tilesize -int 35
+# Set the icon size of Dock items to 44 pixels
+defaults write com.apple.dock tilesize -int 44
 
 # Enable magnification of Dock items
 defaults write com.apple.dock magnification -int 1
 
-# Set the icon size of mgnified Dock items to 73 pixels
-defaults write com.apple.dock largesize -int 73
+# Set the icon size of mgnified Dock items to 106 pixels
+defaults write com.apple.dock largesize -int 106
 
 # Don’t show Dashboard as a Space
 defaults write com.apple.dock dashboard-in-overlay -bool true
@@ -98,5 +98,3 @@ defaults write com.apple.dashboard mcx-disabled -bool true
 
 # Automatically quit printer app once the print jobs complete
 defaults write com.apple.print.PrintingPrefs "Quit When Finished" -bool true
-
-

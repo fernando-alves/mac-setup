@@ -15,19 +15,15 @@ brew tap homebrew/cask-versions
 cask google-chrome
 cask dropbox
 cask flycut
-cask docker
-cask spotify
-cask quicksilver
 cask 1password6
-cask sync
-cask google-cloud-sdk
-cask docker
 cask iterm2
-cask visual-studio-code
-cask zoomus
+cask vscodium
 cask gpg-suite
+cask quicksilver
+cask docker
+cask sync
+cask zoom
+cask spotify
+cask vlc
 
 formula git
-formula kubectl
-formula git-crypt
-formula bash
