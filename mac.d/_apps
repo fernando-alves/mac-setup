@@ -16,7 +16,6 @@ install iterm2
 install vscodium
 install gpg-suite
 install quicksilver
-install docker
 install sync
 install zoom
 install spotify
