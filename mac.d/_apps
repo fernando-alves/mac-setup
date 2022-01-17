@@ -23,3 +23,6 @@ install vlc
 install git
 install slack
 install discord
+install podman
+install istat-menus
+install fnm
