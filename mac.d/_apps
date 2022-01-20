@@ -26,3 +26,4 @@ install discord
 install podman
 install istat-menus
 install fnm
+install z
