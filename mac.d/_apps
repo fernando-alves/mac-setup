@@ -7,6 +7,7 @@ function install() {
 }
 
 brew tap homebrew/cask-versions
+brew tap homebrew/cask-drivers
 
 install 1password
 install sync
@@ -28,3 +29,5 @@ install slack
 install discord
 install zoom
 install unar
+install displaylink
+install focusrite-control
