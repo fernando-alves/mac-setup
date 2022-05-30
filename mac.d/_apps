@@ -8,22 +8,23 @@ function install() {
 
 brew tap homebrew/cask-versions
 
-install google-chrome
-install dropbox
-install flycut
-install 1password6
-install iterm2
-install vscodium
-install gpg-suite
-install quicksilver
+install 1password
 install sync
-install zoom
+install google-chrome
+install firefox-developer-edition
+install vscodium
+install colima
+install fnm
+install git
+install z
+install flycut
+install iterm2
+install quicksilver
+install istat-menus
+install gpg-suite
 install spotify
 install vlc
-install git
 install slack
 install discord
-install podman
-install istat-menus
-install fnm
-install z
+install zoom
+install unar
